@@ -1,8 +1,8 @@
 {
   "name": "lavalink-server",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "kagchi",
+  "version": "-1.0.0",
+  "main": "run.js",
+  "author": "alanv",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.2.0",
